@@ -6,7 +6,7 @@ for i in range(t):
 n = int(t-1/2)
 elements= []
 indexes=[]
-
+indexess = []
 for i in range(t):
     for j in range(t):
         if i == j or i+j == t-1:
